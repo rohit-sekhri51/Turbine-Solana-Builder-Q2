@@ -1,0 +1,21 @@
+[submodule "solana-starter"]
+	path = solana-starter
+	url = git@github.com:rohit-sekhri51/solana-starter.git
+[submodule "vault-rs"]
+	path = vault-rs
+	url = git@github.com:rohit-sekhri51/vault.git
+[submodule "escrow-rs"]
+	path = escrow-rs
+	url = git@github.com:rohit-sekhri51/escrow.git
+[submodule "amm-rs"]
+	path = amm-rs
+	url = git@github.com:rohit-sekhri51/amm.git
+[submodule "marketplace-rs"]
+	path = marketplace-rs
+	url = git@github.com:rohit-sekhri51/marketplace.git
+[submodule "nft-staking-rs"]
+	path = nft-staking-rs
+	url = git@github.com:rohit-sekhri51/nft-staking.git
+[submodule "Q2_PreReq"]
+	path = Q2_PreReq
+	url = git@github.com:rohit-sekhri51/Q2_PreReq.git
