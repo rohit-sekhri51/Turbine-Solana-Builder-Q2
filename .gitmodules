@@ -19,3 +19,6 @@
 [submodule "Q2_PreReq"]
 	path = Q2_PreReq
 	url = git@github.com:rohit-sekhri51/Q2_PreReq.git
+[submodule "quadfund-dao"]
+	path = quadfund-dao
+	url = git@github.com:rohit-sekhri51/quadfund-dao.git
