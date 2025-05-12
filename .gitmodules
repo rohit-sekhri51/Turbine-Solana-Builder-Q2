@@ -22,3 +22,6 @@
 [submodule "quadfund-dao"]
 	path = quadfund-dao
 	url = git@github.com:rohit-sekhri51/quadfund-dao.git
+[submodule "capstone-dao-notebox"]
+	path = capstone-dao-notebox
+	url = git@github.com:rohit-sekhri51/capstone-dao-notebox.git
