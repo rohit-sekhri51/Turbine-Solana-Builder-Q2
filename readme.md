@@ -32,8 +32,8 @@ This repository serves as an umbrella collection of modular Solana programs buil
 Clone the repo and initialize all submodules:
 
 ```bash
-git clone --recurse-submodules https://github.com/your-org/solana-anchor-collection.git
-cd solana-anchor-collection
+git clone --recurse-submodules https://github.com/rohit-sekhri51/Turbine-Solana-Builder-Q2.git
+cd Turbine-Solana-Builder-Q2
 git submodule update --init --recursive
 ```
 
